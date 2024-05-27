@@ -1,0 +1,3 @@
+target_directory: "./watchedDir"
+storage_location: "./fileData.json"
+concurrency_level: 5
